@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickHolst
-- 🔭 I’m currently a student at IT-Högskolan Gothenburg.
-- 🌱 I’m currently learning CSS, JavaScript and .NET-developement.
+- 💻 I am  a student developer based in Gothenburg.
+- 🌱 I am currently learning React, Kotlin and .NET-developement.
 - 💬 Ask me about anything!
 - 📫 How to reach me - https://www.linkedin.com/in/patrickholstroghell
 
